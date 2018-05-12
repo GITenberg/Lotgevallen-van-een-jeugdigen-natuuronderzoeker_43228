@@ -1,0 +1,36 @@
+_repo: Lotgevallen-van-een-jeugdigen-natuuronderzoeker_43228
+_version: 0.1.0
+alternative_title: Aventures d'un jeune naturaliste. Dutch
+contributor:
+  translator:
+    agent_name: Nuyens, A.
+    gutenberg_agent_id: '42081'
+    url: http://www.gutenberg.org/2009/agents/42081
+covers:
+- cover_type: archival
+  image_path: 43228-h/images/cover-l.jpg
+creator:
+  author:
+    agent_name: Biart, Lucien
+    aliases:
+    - Biart, Lucian
+    - Biart, Luciano
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '7750'
+    url: http://www.gutenberg.org/2009/agents/7750
+description: ''
+gutenberg_issued: '2013-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43228'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Mexico'
+- !lcc 'QH'
+- !lcsh 'Mexico -- Description and travel'
+title: Lotgevallen van een jeugdigen natuuronderzoeker
+url: http://www.gutenberg.org/ebooks/43228
